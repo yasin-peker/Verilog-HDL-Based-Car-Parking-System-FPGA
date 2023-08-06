@@ -1,0 +1,7 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1691327627" />
+    <testcase name="Car_Parking_System_test1" classname="Car_Parking_System_cocotb_test" file="D:\FPGA_Projects\Car_Parking_System\tests\Car_Parking_System_cocotb_test.py" lineno="22" time="0.008010149002075195" sim_time_ns="95000.001" ratio_time="11859954.287415663" />
+    <testcase name="Car_Parking_System_test2" classname="Car_Parking_System_cocotb_test" file="D:\FPGA_Projects\Car_Parking_System\tests\Car_Parking_System_cocotb_test.py" lineno="107" time="0.0020132064819335938" sim_time_ns="145000.001" ratio_time="72024405.99174608" />
+  </testsuite>
+</testsuites>
