@@ -1,0 +1,8 @@
+
+State Machine - |Car_Parking_System|current_state
+Name current_state.CORRECT_PASSWORD_STATE current_state.WRONG_PASSWORD_STATE current_state.PASSWORD_WAITING_STATE current_state.IDLE_STATE current_state.WAIT_STATE 
+current_state.IDLE_STATE 0 0 0 0 0 
+current_state.PASSWORD_WAITING_STATE 0 0 1 1 0 
+current_state.WRONG_PASSWORD_STATE 0 1 0 1 0 
+current_state.CORRECT_PASSWORD_STATE 1 0 0 1 0 
+current_state.WAIT_STATE 0 0 0 1 1 
